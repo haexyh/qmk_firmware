@@ -41,3 +41,9 @@
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 // RGBLED_NUM is defined in revisions
+
+// made by my own
+#define MOUSEKEY_DELAY 75
+#define MOUSEKEY_INTERVAL 25 
+#define MOUSEKEY_MAX_SPEED 6
+#define MOUSEKEY_TIME_TO_MAX 25
