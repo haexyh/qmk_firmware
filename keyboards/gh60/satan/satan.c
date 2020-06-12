@@ -7,6 +7,10 @@ void matrix_init_kb(void) {
 
 void matrix_scan_kb(void) {
   matrix_scan_user();
+/*  
+    debug_enable=true;
+    debug_matrix=true;
+*/
 };
 
 void led_init_ports(void) {
